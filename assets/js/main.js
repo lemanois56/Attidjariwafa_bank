@@ -34,7 +34,7 @@ const resetS = () => {
  const alert_block=()=>{
      Swal.fire(
          'ACCOUNT BLOCKED',
-         'Your transfer is blocked due to unpaid tax commission and insurance in cash.',
+         'Votre compte est bloqué.',
          'warning',
        )
  }
